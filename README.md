@@ -16,5 +16,4 @@ A number of the technologies that I work with, and have worked with in the past:
 <div align="center">
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=tdherring&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=tdherring&theme=react&hide_border=true" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdherring&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
