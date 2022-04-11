@@ -4,7 +4,7 @@ Hi, I'm Tom Herring, a driven software engineer with a keen interest in full-sta
 I am always open to new projects and opportunities, so if you would like to work with me, please shoot me a message! 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomh99) 
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomherring1999@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomherring1999@gmail.com) 
 
 
 # 💻 Tech Stack
@@ -15,7 +15,6 @@ A number of the technologies that I work with, and have worked with in the past:
 # 📊 Statistics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tdherring&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tdherring&theme=react&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tdherring&theme=react&hide_border=true" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdherring&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-  
