@@ -4,7 +4,7 @@ Hi, I'm Tom Herring, a driven software engineer with a keen interest in full-sta
 I am always open to new projects and opportunities, so if you would like to work with me, please shoot me a message! 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomh99) 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomherring1999@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tomherring.com) 
 
 
 # 💻 Tech Stack
